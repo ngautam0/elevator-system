@@ -3,7 +3,7 @@ from elevator_system.main import ElevatorSystem
 
 def run():
     """
-    Run - It takes a total of 5 input.
+    Run - It takes a total of 6 input.
     Make changes to this file to change the parameters.
 
     active_floors -  floors on which button has been pressed.
